@@ -27,3 +27,4 @@ public class RedisConfig extends CachingConfigurerSupport {
         return redisTemplate;
     }
 }
+
